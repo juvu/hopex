@@ -1,5 +1,7 @@
 # Develop分支上是最新的代码，master分支不定期更新，本项目所有的接口都有mock服务。
 
+## 可直接使用 访问loclahost:8000即可，默认mock模式
+
 ## 重要文件
 tradeview文件 /src/routes/Home/TradeChart.js   
 websocket文件  /services/SocketClient.js
